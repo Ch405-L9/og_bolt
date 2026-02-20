@@ -286,3 +286,195 @@
 
 # 2026-02-20 13:38:40.034905
 +y
+
+# 2026-02-20 13:52:17.665580
++You are tasked with acting as a full project auditor, debugger, and CI assistant for a local Android APK project hosted in this GitHub repo: https://github.com/Ch405-L9/og_bolt. 
++
++Your responsibilities include:
++
++1. **Project Initialization & Review**  
++   - Analyze the full directory structure and file contents.
++   - Identify all Kotlin/Java source files relevant to: MainActivity, Parsers, Readers, Document handling, PDF/TXT/EPUB processing.
++   - Review build files: app/build.gradle*, build.gradle*, settings.gradle* to understand dependencies.
++   - Check AndroidManifest.xml for permissions, activities, and Firebase integration.
++   - Map the app architecture and highlight any potential structural issues.
++
++2. **Parsing Verification & Debug**  
++   - Confirm that PDF, TXT, and EPUB parsing pipelines function as expected.
++   - Flag any parsing errors, threading issues, or performance bottlenecks.
++   - Ensure debug tools or placeholders (e.g., Dodgeable version) are integrated correctly.
++
++3. **Testing & Validation**  
++   - Run any existing tests or suggest tests for parsing, file reading, and main activity flows.
++   - Confirm that the APK can build successfully with minimal warnings or errors.
++   - Validate compatibility with the Android SDK versions defined in the build files.
++
++4. **Version Control & Git Integration**  
++   - Stage, commit, and push updates to the `og_bolt` repository.  
++   - Use meaningful commit messages for fixes or updates.  
++   - Maintain a clean commit history; ensure no unnecessary files are added.  
++   - Confirm the remote branch `main` is properly tracking the GitHub repo.
++
++5. **Workflow Optimization**  
++   - Suggest improvements or fixes only if they **increase stability, parsing accuracy, or maintainability by at least 10%**, without introducing major risks.
++   - Provide a concise report of what was verified, fixed, or flagged for attention.
++
++6. **Communication & Queries**  
++   - If you encounter ambiguities in the code or missing information, generate **clear questions** before attempting modifications.
++   - Do **not** make assumptions about missing files; request them explicitly.
++
++7. **Execution Instructions**  
++   - Start by scanning the repo: list all relevant files.  
++   - Audit parsing pipelines (PDF/TXT/EPUB).  
++   - Perform debug validation.  
++   - Stage and commit verified changes.  
++   - Push updates to GitHub `main`.  
++   - Provide a **summary report** after completing all tasks.
++
++**Environment Notes:**  
++- Repo root: `/home/t0n34781/Manus API/badgr_bolt_ropr/og_bolt`  
++- Android Studio build environment available.  
++- All source code files are included in the repo; no external dependencies required.  
++- API access (if needed) is preconfigured via stored API keys.
++
++**Deliverable:**  
++A fully reviewed and debugged APK project in the repo, with all parsing functionality validated, commits pushed, and a summary report including:  
++- Files reviewed  
++- Errors found and fixed  
++- Tests passed  
++- Any recommendations for improvement
+
+# 2026-02-20 13:52:19.641184
++y
+
+# 2026-02-20 13:54:58.808518
++You are tasked with acting as a full project auditor, debugger, and CI assistant for a local Android APK project hosted in this GitHub repo: https://github.com/Ch405-L9/og_bolt. 
++
++Your responsibilities include:
++
++1. **Project Initialization & Review**  
++   - Analyze the full directory structure and file contents.
++   - Identify all Kotlin/Java source files relevant to: MainActivity, Parsers, Readers, Document handling, PDF/TXT/EPUB processing.
++   - Review build files: app/build.gradle*, build.gradle*, settings.gradle* to understand dependencies.
++   - Check AndroidManifest.xml for permissions, activities, and Firebase integration.
++   - Map the app architecture and highlight any potential structural issues.
++
++2. **Parsing Verification & Debug**  
++   - Confirm that PDF, TXT, and EPUB parsing pipelines function as expected.
++   - Flag any parsing errors, threading issues, or performance bottlenecks.
++   - Ensure debug tools or placeholders (e.g., Dodgeable version) are integrated correctly.
++
++3. **Testing & Validation**  
++   - Run any existing tests or suggest tests for parsing, file reading, and main activity flows.
++   - Confirm that the APK can build successfully with minimal warnings or errors.
++   - Validate compatibility with the Android SDK versions defined in the build files.
++
++4. **Version Control & Git Integration**  
++   - Stage, commit, and push updates to the `og_bolt` repository.  
++   - Use meaningful commit messages for fixes or updates.  
++   - Maintain a clean commit history; ensure no unnecessary files are added.  
++   - Confirm the remote branch `main` is properly tracking the GitHub repo.
++
++5. **Workflow Optimization**  
++   - Suggest improvements or fixes only if they **increase stability, parsing accuracy, or maintainability by at least 10%**, without introducing major risks.
++   - Provide a concise report of what was verified, fixed, or flagged for attention.
++
++6. **Communication & Queries**  
++   - If you encounter ambiguities in the code or missing information, generate **clear questions** before attempting modifications.
++   - Do **not** make assumptions about missing files; request them explicitly.
++
++7. **Execution Instructions**  
++   - Start by scanning the repo: list all relevant files.  
++   - Audit parsing pipelines (PDF/TXT/EPUB).  
++   - Perform debug validation.  
++   - Stage and commit verified changes.  
++   - Push updates to GitHub `main`.  
++   - Provide a **summary report** after completing all tasks.
++
++**Environment Notes:**  
++- Repo root: `/home/t0n34781/Manus API/badgr_bolt_ropr/og_bolt`  
++- Android Studio build environment available.  
++- All source code files are included in the repo; no external dependencies required.  
++- API access (if needed) is preconfigured via stored API keys.
++
++**Deliverable:**  
++A fully reviewed and debugged APK project in the repo, with all parsing functionality validated, commits pushed, and a summary report including:  
++- Files reviewed  
++- Errors found and fixed  
++- Tests passed  
++- Any recommendations for improvement  * The manifest is not accurate. Please search for the files needed. They are there and htis is the full build and code.
+
+# 2026-02-20 13:55:03.871384
++y
+
+# 2026-02-20 14:12:27.048620
++You are tasked with acting as a full project auditor, debugger, and CI assistant for a local Android APK project hosted in this GitHub repo: https://github.com/Ch405-L9/og_bolt. 
++
++Your responsibilities include:
++
++1. **Project Initialization & Review**  
++   - Analyze the full directory structure and file contents.
++   - Identify all Kotlin/Java source files relevant to: MainActivity, Parsers, Readers, Document handling, PDF/TXT/EPUB processing.
++   - Review build files: app/build.gradle*, build.gradle*, settings.gradle* to understand dependencies.
++   - Check AndroidManifest.xml for permissions, activities, and Firebase integration.
++   - Map the app architecture and highlight any potential structural issues.
++
++2. **Parsing Verification & Debug**  
++   - Confirm that PDF, TXT, and EPUB parsing pipelines function as expected.
++   - Flag any parsing errors, threading issues, or performance bottlenecks.
++   - Ensure debug tools or placeholders (e.g., Dodgeable version) are integrated correctly.
++
++3. **Testing & Validation**  
++   - Run any existing tests or suggest tests for parsing, file reading, and main activity flows.
++   - Confirm that the APK can build successfully with minimal warnings or errors.
++   - Validate compatibility with the Android SDK versions defined in the build files.
++
++4. **Version Control & Git Integration**  
++   - Stage, commit, and push updates to the `og_bolt` repository.  
++   - Use meaningful commit messages for fixes or updates.  
++   - Maintain a clean commit history; ensure no unnecessary files are added.  
++   - Confirm the remote branch `main` is properly tracking the GitHub repo.
++
++5. **Workflow Optimization**  
++   - Suggest improvements or fixes only if they **increase stability, parsing accuracy, or maintainability by at least 10%**, without introducing major risks.
++   - Provide a concise report of what was verified, fixed, or flagged for attention.
++
++6. **Communication & Queries**  
++   - If you encounter ambiguities in the code or missing information, generate **clear questions** before attempting modifications.
++   - Do **not** make assumptions about missing files; request them explicitly.
++
++7. **Execution Instructions**  
++   - Start by scanning the repo: list all relevant files.  
++   - Audit parsing pipelines (PDF/TXT/EPUB).  
++   - Perform debug validation.  
++   - Stage and commit verified changes.  
++   - Push updates to GitHub `main`.  
++   - Provide a **summary report** after completing all tasks.
++
++**Environment Notes:**  
++- Repo root: `/home/t0n34781/Manus API/badgr_bolt_ropr/og_bolt`  
++- Android Studio build environment available.  
++- All source code files are included in the repo; no external dependencies required.  
++- API access (if needed) is preconfigured via stored API keys.
++
++**Deliverable:**  
++A fully reviewed and debugged APK project in the repo, with all parsing functionality validated, commits pushed, and a summary report including:  
++- Files reviewed  
++- Errors found and fixed  
++- Tests passed  
++- Any recommendations for improvement  * The manifest is not accurate. Please search for the files needed. They are there and htis is the full build and code. I know and realize they do not have the full files, but lests test the functionality, and see what happens. 
+
+# 2026-02-20 14:12:32.119884
++y
+
+# 2026-02-20 14:13:11.309391
++n
+
+# 2026-02-20 14:13:14.069111
++y
+
+# 2026-02-20 14:21:29.807341
++n
+
+# 2026-02-20 14:22:08.861206
++List all files you need please, OR, If yo can scrape a DIFF repo, I found them all there, just I dont know how to add them
