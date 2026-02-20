@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269182906514",
+    "project_id": "badgr-bolt",
+    "storage_bucket": "badgr-bolt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269182906514:android:c6a0700801f2dd922eb64b",
+        "android_client_info": {
+          "package_name": "com.badgr.rsvpreader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv1E1SHfEQSojpAz27tij1UwqshjKu8lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
