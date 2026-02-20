@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BADGR Bolt</string>
+    <string name="by_badgr_tech">by BADGR Technologies LLC</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+    <string name="jump_back">Back 10</string>
+    <string name="jump_forward">Forward 10</string>
+    <string name="wpm_label">%d WPM</string>
+    <string name="progress_label" formatted="false">%1$d of %2$d</string>
+    <string name="progress_percent">%.1f%%</string>
+    <string name="load_text">Load Text</string>
+    <string name="sample_text">Welcome to BADGR Speed Reader! This is your rapid serial visual presentation tool. Adjust the speed slider below and press play to begin reading at your optimal pace. The red letter marks the optimal recognition point for faster comprehension.</string>
+</resources>
